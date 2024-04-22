@@ -1,0 +1,15 @@
+.container{
+    flex-direction: row;
+    span{
+        color:red
+    }
+}
+
+.inputContainer{
+    display: flex;
+    flex-direction: row;
+    margin-top:20px;
+    .label{
+        padding-right:20px;
+    }
+}
